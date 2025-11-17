@@ -1,4 +1,4 @@
-# MUstafar-Dungeon
+# Mustafar-Dungeon
 Custom Dungeon of The Star Wars planet Mustafar
 
 
